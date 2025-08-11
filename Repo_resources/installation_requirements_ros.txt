@@ -1,2 +1,0 @@
-sudo apt-get install ros-humble-gazebo-msgs
-sudo apt-get install ros-humble-gazebo-plugins
